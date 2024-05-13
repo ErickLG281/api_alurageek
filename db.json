@@ -4,13 +4,31 @@
       "id": "1",
       "nombre": "The Blaze",
       "precio": "10.00",
-      "imagen": "https://images.squarespace-cdn.com/content/v1/5b1efa47af2096155c79b1b8/1543272324275-Z9VCWDFFWTU918KPEKVP/DSC09910.JPG"
+      "imagen": "https://i.postimg.cc/26W4LHk3/Oyasumi-Punpun-Que-trastornos-psicologicos-padecia-Punpun-Onodera-compressed.webp"
+    },
+    {
+      "id": "e5e0",
+      "nombre": "The Strokes",
+      "precio": "5000",
+      "imagen": "https://i.postimg.cc/VLqDVNc5/oyasumi-punpun-859537.webp"
+    },
+    {
+      "id": "c1d9",
+      "nombre": "Oyasumi",
+      "precio": "32",
+      "imagen": "https://i.postimg.cc/cHFnPVLK/500-333.webp"
+    },
+    {
+      "id": "9a76",
+      "nombre": "Arte",
+      "precio": "281",
+      "imagen": "https://i.postimg.cc/0Q78wSL9/9554ba7986ad5d33c9b8f39010f92ef3.jpg"
     },
     {
       "id": "dda3",
       "nombre": "Vagabond",
       "precio": "190",
-      "imagen": "https://img.asmedia.epimg.net/resizer/v2/5BLJPLIFZJB2RHTAZ7THDV6WBU.jpg?auth=71dc28b1b34295b8dab542eb2ce907694a2a62750038cfadcb66c23c20e65cae&width=644&height=362&smart=true"
+      "imagen": "https://i.postimg.cc/NMn06Y0x/5-BLJPLIFZJB2-RHTAZ7-THDV6-WBU.avif"
     }
   ]
 }
